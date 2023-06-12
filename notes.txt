@@ -1,0 +1,35 @@
+
+Coding Questions (Upload the code on github & share the link)
+
+Assignment (Mandatory) – React.Js
+ 
+
+Create a React app as per the following requirement –
+
+ 
+
+Create a card view to show movies
+Each movie should have movie name, rating, released date
+Create a simple JSON for movies data. Minimum 20 movies required.
+Create a simple API in NodeJS to read data from JSON source
+Integrate your React app with the NodeJS API.
+Use React router in wherever possible here.
+Application UI should be clean and simple.
+ 
+
+Assignment (Mandatory) – Node.Js
+Create a NodeJS server using HAPI/Express framework. 
+Create a service for USER. User model should have First Name, Last Name, Email, and Contact No.
+Add a route with GET request to fetch all users
+Add POST and PUT requests to create and update existing users
+Add DELETE requests to delete a user entry.
+Add proper validation on payload/parameters and error handler for request. 
+
+
+
+
+
+
+
+
+ 
